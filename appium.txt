@@ -1,0 +1,6 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.2"
+deviceName = "iPhone 7"
+app = "/Users/m.siqueira.viana/Documents/TesteAppium/iosTeste/build/ipa/WebViewApp.app"
+
